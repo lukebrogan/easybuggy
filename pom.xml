@@ -80,7 +80,6 @@
 			<artifactId>javassist</artifactId>
 			<version>3.12.1.GA</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/com.github.jnr/jnr-posix -->
 		<dependency>
 		    <groupId>com.github.jnr</groupId>
 		    <artifactId>jnr-posix</artifactId>
